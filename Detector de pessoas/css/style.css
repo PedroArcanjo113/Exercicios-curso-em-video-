@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing:border-box;
+}
+body{
+    background-color: rgb(154, 154, 226);
+    font: normal 15pt arial;
+    margin-top:6.8%;
+}
+header{
+    text-align: center;
+    color:white;
+}
+section{
+    height: 60vh ;
+    width: 40vw;
+    max-width: 100%;
+    background:white;
+    margin:auto;
+}
+div{
+    text-align:center;
+}
+input{
+    cursor:pointer;
+    margin:1%;
+}
+.button{
+    padding:1%;
+    border-style: none;
+    box-shadow: 3px 3px 5px rgba(0,0,0,0.23);
+} 
+#img{
+    height: 40vh;
+    width: 20vw;
+    max-width: 100%;
+    border-radius:50%;
+}
+footer{
+    font:italic;
+    text-align: center;
+    color:white;
+}
