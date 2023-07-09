@@ -1,2 +1,2 @@
-# Exercicios curso em video 
- Soluçoõs do canal curso em video em JavaScript
+# Exercícios curso em video 
+ Soluções do canal curso em video em JavaScript
