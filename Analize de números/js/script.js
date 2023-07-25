@@ -24,7 +24,7 @@ function enviar(){
         
         window.alert("#ERRO!# Por favor, insira um valor na lista")
     }else if(numero(dados.value) == false){
-        //Número maior que 100 e menor que 0
+        //Número maior que 100 e menor que 1
 
         window.alert('Por favor, insira um número entre 1 e 100')
     }else if(tela(dados.value, armazenamento) == false){
