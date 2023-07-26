@@ -72,7 +72,7 @@ function finalizar(){
         res.innerHTML += `<p>Ao todo temos ${total} números na lista.</p>`
         res.innerHTML += `<p>O maior valor inserido foi ${maior}.</p>`
         res.innerHTML += `<p>O menor valor inserido foi ${menor}.</p>`
-        res.innerHTML += `<p>A soma entre os valores é de ${soma}.</p>`
+        res.innerHTML += `<p>O total entre os valores é de ${soma}.</p>`
         res.innerHTML += `<p>A média entre os valores é de ${média}.</p>`
     }
 }
